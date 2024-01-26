@@ -3,7 +3,12 @@
 
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김윤겸](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박성우](https://avatars.githubusercontent.com/u/156163982?v=4) | ![장호준](https://avatars.githubusercontent.com/u/156163982?v=4) | ![남영진](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이재민]
+| ![노균호](https://avatars.githubusercontent.com/u/156163982?v=4) 
+| ![김윤겸](https://avatars.githubusercontent.com/u/156163982?v=4) 
+| ![박성우](https://avatars.githubusercontent.com/u/156163982?v=4) 
+| ![장호준](https://avatars.githubusercontent.com/u/156163982?v=4) 
+| ![남영진](https://avatars.githubusercontent.com/u/156163982?v=4) 
+| ![이재민](https://avatars.githubusercontent.com/u/156163982?v=4)
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [노균호](https://github.com/UpstageAILab)             |            [김윤겸](https://github.com/UpstageAILab)             |            [박성우](https://github.com/UpstageAILab)             |            [장호준](https://github.com/UpstageAILab)             |            [남영진](https://github.com/UpstageAILab)             |            [이재민](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             
